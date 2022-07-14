@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent most of my time on coding, cooking and watching anime.
 - <h3>Github Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238" />
