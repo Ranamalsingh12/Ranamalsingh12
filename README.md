@@ -8,8 +8,10 @@
 - 💬 Ask me about React Js, Javascript and any tech realted stuff.
 - 😄 Pronouns: He/His
 - <h3>Github Stats:</h3>
-<div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&&show_icons=true&title_color=F57C00&icon_color=bb2acf&text_color=F57C00&bg_color=212121" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranamalsingh12&theme=dark" />
-</div>
-<img src="https://activity-graph.herokuapp.com/graph?username=Ranamalsingh12&theme=react-dark" />
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranamalsingh12&theme=tokyonight" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Ranamalsingh12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" />
