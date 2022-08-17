@@ -1,12 +1,11 @@
-### Hi 👋, I'm Ranamalsingh
+## Hi, I am RanaMalSingh! Great to see you here! 👋
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Nodejs, Express Js, C++.
-- 📫 How to reach me: Twitter [https://twitter.com/RanaMS999]
-- 📫 How to reach me: Linkedin [https://www.linkedin.com/in/rana-ms/]
-- 👯 I’m looking to collaborate on Twitter [https://twitter.com/RanaMS999]
-- 💬 Ask me about React Js, Javascript and any tech realted stuff.
-- 😄 Pronouns: He/His
+I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end Developer with experience building projects. I am a tech & an open-source enthusiast. Currently i am learing Next.js, Node.js, Backend Development and Data Structure & Algorithms. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+
+[![Twitter Badge](https://img.shields.io/badge/-RanaMalSingh-039BE5?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RanaMS999)](https://twitter.com/RanaMS999)
+[![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
+[![Gmail Badge](https://img.shields.io/badge/-ranams99911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:ranams99911@gmail.com)
+
 - <h3>Github Stats:</h3>
 <p align="center">
 	
