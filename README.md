@@ -6,6 +6,35 @@ I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end
 [![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
 [![Gmail Badge](https://img.shields.io/badge/-ranams99911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:ranams99911@gmail.com)
 
+## ⚡ Technologies
+
+### Language :
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-E1F5FE?style=flat-square&logo=tailwindcss)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
+![Electronjs](https://img.shields.io/badge/-Electron-EEEEEE?style=flat-square&logo=electron)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+
+
 - <h3>Github Stats:</h3>
 <p align="center">
 	
