@@ -6,6 +6,15 @@ I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end
 [![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
 [![Gmail Badge](https://img.shields.io/badge/-ranams99911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:ranams99911@gmail.com)
 
+### My Latest Article
+
+<p align="left">
+<a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ? "><img src="https://miro.medium.com/max/700/1*Vy-pQtFm_vRoe2QIJUkhTg.png" width="250px" align="left" /></a>
+<a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ?"> <strong><em> What is Blockchainand How it's works ? </em></strong></a>
+<br/> 
+So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed database shared among multiple nodes on a computer network. As its namesake Blockchain records data as a chain of blocks. <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" >Read More ....</a>
+</p> <br/>
+
 ## ⚡ Technologies
 
 ### Language :
