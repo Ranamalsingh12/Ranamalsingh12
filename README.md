@@ -26,10 +26,6 @@ I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 
-
-### Most Used Languages: 
-<img alt="Rana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranamalsingh12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
-
 ### Deployment Tools:
 
 ![Expressjs](https://img.shields.io/badge/-Netlify-78909C?style=flat-square&logo=netlify)
@@ -39,6 +35,9 @@ I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
+
+### Most Used Languages: 
+<img alt="Rana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranamalsingh12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
 
 - <h3>Github Stats:</h3>
 <p align="center">
