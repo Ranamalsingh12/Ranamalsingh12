@@ -17,7 +17,6 @@ I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end
 So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed database shared among multiple nodes on a computer network. As its namesake Blockchain records data as a chain of blocks. <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" >Read More ....</a>
 	
 </p> 
-<p>My Upcoming articles will be on WEB3, Ethereum Virtual Machine So please connect with me so I can Update you</p>
 <br/>
 
 ## ⚡ Technologies
