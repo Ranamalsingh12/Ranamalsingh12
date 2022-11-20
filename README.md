@@ -1,6 +1,6 @@
 ## Hi, I am RanaMalSingh! Great to see you here! 👋
 
-I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end Developer with experience building projects. I am a tech & an open-source enthusiast. Currently i am learning <strong><em>Web3, Java, Next.js, Node.js, Backend Development and Data Structure & Algorithm</strong></em>. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Rana Mal Singh, Currently I am working on Web Development. I am a Front-end Developer with experience building projects. I am a tech & an open-source enthusiast. Currently i am exploring <strong><em>Web3, Java, Next.js, Node.js (Backend Development) and Data Structure & Algorithm</strong></em>. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Twitter Badge](https://img.shields.io/badge/-RanaMalSingh-039BE5?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RanaMS999)](https://twitter.com/RanaMS999)
 [![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
