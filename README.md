@@ -32,6 +32,7 @@ So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed datab
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next Js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=Next.js) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-E1F5FE?style=flat-square&logo=tailwindcss)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
