@@ -8,16 +8,18 @@ I am Rana Mal Singh, Currently I am learning and working on Web Development (fro
 [![Medium Badge](https://img.shields.io/badge/-RanaMalSingh-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/p/3a9b58d9d548)](https://medium.com/p/3a9b58d9d548)
 
 ### My Latest Article  👇
-
-
 <p align="left">
 <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ? "><img src="https://miro.medium.com/max/700/1*Vy-pQtFm_vRoe2QIJUkhTg.png" width="250px" align="left" /></a>
 <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ?"> <strong><em> What is Blockchainand How it's works ? </em></strong></a>
 <br/> 
 So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed database shared among multiple nodes on a computer network. As its namesake Blockchain records data as a chain of blocks. <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" >Read More ....</a>
-	
 </p> 
 <br/>
+
+<div>
+	<span>My next article will be on <strong><em>Web3, React-State-Management, Reponsive design </em></strong>. To stay updated you can follow me on Twitter - https://twitter.com/RanaMS999</span>
+</div>
+
 
 ## ⚡ Technologies
 
