@@ -65,4 +65,3 @@ So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed datab
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Ranamalsingh12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" />
 
-//graph image is out of service right now. 
