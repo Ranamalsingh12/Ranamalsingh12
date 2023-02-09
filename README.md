@@ -17,7 +17,7 @@ So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed datab
 <br/>
 
 <div>
-	<span>My next article will be on <strong><em>Web3, React-State-Management, Reponsive design </em></strong>. To stay updated you can follow me on Twitter - https://twitter.com/RanaMS999</span>
+
 </div>
 
 
