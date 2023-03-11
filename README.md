@@ -8,6 +8,8 @@ I am Rana Mal Singh, Currently I am learning and working on Web Development (fro
 [![Medium Badge](https://img.shields.io/badge/-RanaMalSingh-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/p/3a9b58d9d548)](https://medium.com/p/3a9b58d9d548)
 
 ### My Latest Article  👇
+
+<div>
 <p align="left">
 <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ? "><img src="https://miro.medium.com/max/700/1*Vy-pQtFm_vRoe2QIJUkhTg.png" width="250px" align="left" /></a>
 <a href="https://medium.com/@ranams99911/a-simple-guide-to-blockchain-and-how-it-works-3a9b58d9d548" title="What is <strong><em>Blockchain</em></strong> and How it's works ?"> <strong><em> What is Blockchainand How it's works ? </em></strong></a>
@@ -16,10 +18,18 @@ So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed datab
 </p> 
 <br/>
 
-<div>
-
+	
 </div>
-
+<p align="left">
+<a href="https://miro.medium.com/v2/resize:fit:700/1*Lg3OtNqWZ496Lu6162S8yA.jpeg" title="<strong><em>Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.
+</em></strong>">
+<img src="https://miro.medium.com/v2/resize:fit:700/1*Lg3OtNqWZ496Lu6162S8yA.jpeg" width="250px" align="left" />
+</a>
+<a href="https://medium.com/@ranams99911/web3-a-new-era-of-transparency-trust-and-privacy-and-the-technology-behind-decentralized-35e590830961" title=" <strong><em>Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.</em></strong> "> <strong><em> Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.</em></strong></a>
+<br/> 
+Let’s say that you searched for something on the internet and you notice that the ads you are getting are of the same product you searched for or similar to that. Now you might be wondering how can this is possible. <a href="https://medium.com/@ranams99911/web3-a-new-era-of-transparency-trust-and-privacy-and-the-technology-behind-decentralized-35e590830961" >Read More ....</a>
+</p> 
+<br />
 
 ## ⚡ Technologies
 
@@ -54,7 +64,7 @@ So, What is <strong>Blockchain</strong>? Blockchain is shared, distributed datab
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
-- <h3>Github Stats:</h3>
+<h3>Github Stats:</h3>
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&&show_icons=true&theme=tokyonight" />
