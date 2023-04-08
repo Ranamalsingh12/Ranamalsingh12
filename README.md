@@ -78,4 +78,4 @@ Let’s say that you searched for something on the internet and you notice that 
   <img alt="Rana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranamalsingh12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#004687&line_height=27" />
 </p>
 
-[![Rana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ranamalsingh12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ranamalsingh12&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22)](https://github.com/ashutosh00710/github-readme-activity-graph)
