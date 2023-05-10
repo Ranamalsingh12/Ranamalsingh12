@@ -6,7 +6,7 @@
 - I am always open to collaborating on projects and innovative ideas.
 - Find out more about me & feel free to connect with me on these socials:
 
-### 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />:
+### 🌐 Socials :
 
 [![Twitter Badge](https://img.shields.io/badge/-RanaMalSingh-039BE5?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RanaMS999)](https://twitter.com/RanaMS999)
 [![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
