@@ -80,6 +80,7 @@ Let’s say that you searched for something on the internet and you notice that 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe&logoColor=white) 
 
 
 ### Deployment Tools:
