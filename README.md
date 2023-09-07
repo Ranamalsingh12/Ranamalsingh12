@@ -98,7 +98,7 @@ Let’s say that you searched for something on the internet and you notice that 
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranamalsingh12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkaler&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranamalsingh12&theme=tokyonight&hide_border=true" />
   
   <img alt="Rana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranamalsingh12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
