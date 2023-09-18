@@ -18,13 +18,12 @@
 ### My Latest Article  👇
 </div>
 <p align="left">
-<a href="https://miro.medium.com/v2/resize:fit:700/1*Lg3OtNqWZ496Lu6162S8yA.jpeg" title="<strong><em>Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.
-</em></strong>">
-<img src="https://miro.medium.com/v2/resize:fit:700/1*Lg3OtNqWZ496Lu6162S8yA.jpeg" width="250px" align="left" />
+<a href="https://ranamsblogs.hashnode.dev/behind-the-scenes-of-javascript-memory-creation-and-code-execution">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694967655090/6615f94d-94a1-4a3e-b387-4086f7fd9c82.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px" align="left" />
 </a>
-<a href="https://medium.com/@ranams99911/web3-a-new-era-of-transparency-trust-and-privacy-and-the-technology-behind-decentralized-35e590830961" title=" <strong><em>Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.</em></strong> "> <strong><em> Web3: A New Era of Transparency, Trust, and Privacy and The Technology Behind Decentralized Finance, NFTs.</em></strong></a>
+<a href="https://ranamsblogs.hashnode.dev/behind-the-scenes-of-javascript-memory-creation-and-code-execution" title=" <strong><em>Behind the Scenes of JavaScript: Memory Creation and Code Execution</em></strong> "> <strong><em> Behind the Scenes of JavaScript: Memory Creation and Code Execution</em></strong></a>
 <br/> 
-Let’s say that you searched for something on the internet and you notice that the ads you are getting are of the same product you searched for or similar to that. Now you might be wondering how can this is possible. <a href="https://medium.com/@ranams99911/web3-a-new-era-of-transparency-trust-and-privacy-and-the-technology-behind-decentralized-35e590830961" >Read More ....</a>
+Did you know that when you unleash a block of JavaScript code into your web page, it doesn't just run from top to bottom like a sprinter in a race? Instead, it goes through a unique two-phase dance, involving memory gymnastics and code acrobatics! Welcome to the intriguing world of how JavaScript code is executed <a href="https://ranamsblogs.hashnode.dev/behind-the-scenes-of-javascript-memory-creation-and-code-execution" >Read More ....</a>
 </p> 
 <br />
 
