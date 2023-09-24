@@ -81,7 +81,7 @@ Did you know that when you unleash a block of JavaScript code into your web page
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe&logoColor=white) 
-
+![Metamask](https://img.shields.io/badge/MetaMask-white?style=for-the-badge&logo=MetaMask&logoColor=white)
 
 ### Deployment Tools:
 
