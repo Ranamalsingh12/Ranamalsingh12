@@ -8,11 +8,11 @@
 
 ### 🌐 Socials :
 
-[![Twitter Badge](https://img.shields.io/badge/-RanaMalSingh-039BE5?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RanaMS999)](https://twitter.com/RanaMS999)
-[![Linkedin Badge](https://img.shields.io/badge/-RanaMalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
-[![Gmail Badge](https://img.shields.io/badge/-ranams99911@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:ranams99911@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-RanaMalSingh-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/p/3a9b58d9d548)](https://medium.com/p/3a9b58d9d548)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mynk_rajput_07/)
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/RanaMS999)](https://twitter.com/RanaMS999)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-ms/)](https://www.linkedin.com/in/rana-ms/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ranams99911@gmail.com)](mailto:ranams99911@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/p/3a9b58d9d548)](https://medium.com/p/3a9b58d9d548)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mynk_rajput_07/)
 
 
 ### My Latest Article  👇
