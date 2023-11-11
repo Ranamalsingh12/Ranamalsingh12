@@ -2,7 +2,7 @@
 
 - I am Rana Mal Singh, Currently I am learning and working on Full Stack Development.
 - I am a Front-end Developer with experience building projects & an open-source enthusiast.
-- Currently I am exploring <strong><em>Web3, DBMS, Data Structure & Algorithms & System Design</strong></em>.
+- Currently I am exploring <strong><em>Web3, Nest.js, DBMS, Data Structure & Algorithms & System Design</strong></em>.
 - I am always open to collaborating on projects and innovative ideas.
 - Find out more about me & feel free to connect with me on these socials:
 
